@@ -1,0 +1,492 @@
+2015-11-11 23:58:10,000 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-11 23:58:10,058 - test.Testsenerio -INFO - open firefox browser
+2015-11-11 23:58:15,288 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-11 23:58:43,582 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-11 23:58:53,505 - test.Testsenerio -INFO - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-11 23:58:57,534 - test.Testsenerio -INFO - find KİTAP and click
+2015-11-11 23:59:03,638 - test.Testsenerio -INFO - find Yazarlar and click
+2015-11-11 23:59:03,682 - test.Testsenerio -INFO - go to the authors names page start with 'M'
+2015-11-11 23:59:03,718 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-11 23:59:16,201 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-11 23:59:16,276 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,297 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,318 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,340 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,363 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,388 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,413 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,438 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,456 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,481 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,506 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,530 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,550 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,616 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,634 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,664 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,682 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,703 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,722 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,759 - test.Testsenerio -INFO - true
+2015-11-11 23:59:16,779 - test.Testsenerio -INFO - true
+2015-11-11 23:59:18,177 - test.Testsenerio -INFO - calling method
+2015-11-11 23:59:24,756 - test.Testsenerio -INFO - direct 2nd page startwith 'M'
+2015-11-11 23:59:24,791 - test.Testsenerio -INFO - listing second page
+2015-11-11 23:59:24,815 - test.Testsenerio -INFO - second page start with = Mario Bellatin (1)
+2015-11-11 23:59:42,502 - test.Testsenerio -INFO - Start testing for 'Z'
+2015-11-11 23:59:56,403 - test.Testsenerio -INFO - navigate and refresh
+2015-11-11 23:59:56,404 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-11 23:59:56,441 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-11 23:59:56,467 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,492 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,513 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,536 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,560 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,582 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,602 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,627 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,647 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,670 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,688 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,709 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,728 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,746 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,767 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,785 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,802 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,820 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,838 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,856 - test.Testsenerio -INFO - false
+2015-11-11 23:59:56,874 - test.Testsenerio -INFO - false
+2015-11-12 00:09:00,653 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 00:09:00,712 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 00:09:12,886 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 00:09:45,267 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-12 00:09:45,541 - test.Testsenerio -INFO - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-12 00:09:52,824 - test.Testsenerio -INFO - find KİTAP and click
+2015-11-12 00:09:59,564 - test.Testsenerio -INFO - find Yazarlar and click
+2015-11-12 00:09:59,635 - test.Testsenerio -INFO - go to the authors names page start with 'M'
+2015-11-12 00:09:59,653 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 00:10:09,029 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 00:10:11,492 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,513 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,533 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,554 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,575 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,604 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,627 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,648 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,668 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,692 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,716 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,733 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,751 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,770 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,788 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,807 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,825 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,844 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,864 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,882 - test.Testsenerio -INFO - true
+2015-11-12 00:10:11,902 - test.Testsenerio -INFO - true
+2015-11-12 00:10:13,270 - test.Testsenerio -INFO - calling method
+2015-11-12 00:10:21,528 - test.Testsenerio -INFO - direct 2nd page startwith 'M'
+2015-11-12 00:10:21,812 - test.Testsenerio -INFO - listing second page
+2015-11-12 00:10:21,896 - test.Testsenerio -INFO - second page start with = Mario Bellatin (1)
+2015-11-12 00:10:41,129 - test.Testsenerio -INFO - Start testing for 'Z'
+2015-11-12 00:10:51,128 - test.Testsenerio -INFO - navigate and refresh
+2015-11-12 00:10:51,129 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 00:10:51,165 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 00:10:51,193 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,213 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,232 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,256 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,280 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,304 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,327 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,351 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,369 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,395 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,415 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,434 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,454 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,477 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,498 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,533 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,710 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,793 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,846 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,866 - test.Testsenerio -INFO - false
+2015-11-12 00:10:51,885 - test.Testsenerio -INFO - false
+2015-11-12 00:17:19,556 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 00:17:19,624 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 00:17:32,214 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 00:18:44,578 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-12 00:18:55,733 - test.Testsenerio -INFO - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-12 00:19:02,370 - test.Testsenerio -INFO - find KİTAP and click
+2015-11-12 00:19:11,618 - test.Testsenerio -INFO - find Yazarlar and click
+2015-11-12 00:19:11,654 - test.Testsenerio -INFO - go to the authors names page start with 'M'
+2015-11-12 00:19:11,680 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 00:19:19,677 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 00:19:24,191 - test.Testsenerio -INFO - calling method
+2015-11-12 00:19:33,365 - test.Testsenerio -INFO - direct 2nd page startwith 'M'
+2015-11-12 00:19:33,445 - test.Testsenerio -INFO - listing second page
+2015-11-12 00:19:33,468 - test.Testsenerio -INFO - second page start with = Mario Bellatin (1)
+2015-11-12 00:19:51,090 - test.Testsenerio -INFO - Start testing for 'Z'
+2015-11-12 00:20:00,876 - test.Testsenerio -INFO - navigate and refresh
+2015-11-12 00:20:00,942 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 00:20:01,009 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 01:37:46,036 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 01:37:46,263 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 01:37:53,059 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 01:38:32,417 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-12 01:38:44,597 - test.Testsenerio -INFO - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-12 01:38:49,681 - test.Testsenerio -INFO - find KİTAP and click
+2015-11-12 01:38:57,953 - test.Testsenerio -INFO - find Yazarlar and click
+2015-11-12 01:38:58,125 - test.Testsenerio -INFO - go to the authors names page start with 'M'
+2015-11-12 01:38:58,143 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 01:39:07,858 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 01:39:11,771 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,793 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,813 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,847 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,868 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,890 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,915 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,960 - test.Testsenerio -INFO - true
+2015-11-12 01:39:11,980 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,007 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,037 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,058 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,077 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,095 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,114 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,136 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,172 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,192 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,213 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,253 - test.Testsenerio -INFO - true
+2015-11-12 01:39:12,273 - test.Testsenerio -INFO - true
+2015-11-12 01:39:13,724 - test.Testsenerio -INFO - calling method
+2015-11-12 01:39:20,313 - test.Testsenerio -INFO - direct 2nd page startwith 'M'
+2015-11-12 01:39:20,416 - test.Testsenerio -INFO - listing second page
+2015-11-12 01:39:20,440 - test.Testsenerio -INFO - second page start with = Mario Bellatin (1)
+2015-11-12 01:39:38,672 - test.Testsenerio -INFO - Start testing for 'Z'
+2015-11-12 01:39:49,039 - test.Testsenerio -INFO - navigate and refresh
+2015-11-12 01:39:49,078 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 01:39:49,144 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 01:39:49,170 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,193 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,220 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,245 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,271 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,298 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,322 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,346 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,367 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,391 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,411 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,432 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,454 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,475 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,496 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,515 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,533 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,552 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,572 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,592 - test.Testsenerio -INFO - false
+2015-11-12 01:39:49,610 - test.Testsenerio -INFO - false
+2015-11-12 01:57:31,093 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 01:57:31,163 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 01:57:43,014 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 01:58:03,914 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-12 01:59:11,927 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 01:59:11,968 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 01:59:24,154 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 01:59:46,776 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-12 02:00:01,336 - test.Testsenerio -INFO - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-12 02:00:20,530 - test.Testsenerio -INFO - find KİTAP and click
+2015-11-12 02:03:51,811 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 02:03:51,860 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 02:04:04,479 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 02:04:31,366 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-12 02:04:45,919 - test.Testsenerio -INFO - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-12 02:04:55,964 - test.Testsenerio -INFO - find KİTAP and click
+2015-11-12 02:05:03,389 - test.Testsenerio -INFO - find Yazarlar and click
+2015-11-12 02:05:03,422 - test.Testsenerio -INFO - go to the authors names page start with 'M'
+2015-11-12 02:05:03,442 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 02:05:11,450 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 02:05:13,100 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,121 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,140 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,162 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,185 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,209 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,232 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,259 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,279 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,299 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,322 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,340 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,357 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,375 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,392 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,413 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,435 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,453 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,470 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,488 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,507 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,540 - test.Testsenerio -INFO - DIV2 SIZE =20
+2015-11-12 02:05:13,570 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,590 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,616 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,635 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,656 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,674 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,694 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,712 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,730 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,748 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,764 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,782 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,800 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,817 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,835 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,853 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,871 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,888 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,906 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,923 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,952 - test.Testsenerio -INFO - DIV3 SIZE =20
+2015-11-12 02:05:13,974 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:13,996 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,013 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,037 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,055 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,072 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,093 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,110 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,128 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,145 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,161 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,183 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,202 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,219 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,236 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,260 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,286 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,305 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,323 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,341 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,368 - test.Testsenerio -INFO - DIV4 SIZE =19
+2015-11-12 02:05:14,387 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,405 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,423 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,442 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,460 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,478 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,497 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,515 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,533 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,556 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,576 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,600 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,621 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,649 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,666 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,711 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,730 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,748 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,766 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,783 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:05:14,783 - test.Testsenerio -INFO - this page have 80 authors
+2015-11-12 02:05:14,802 - test.Testsenerio -INFO - first page last element Start withMarie-Sabine Roger (1)
+2015-11-12 02:05:14,802 - test.Testsenerio -INFO - calling method
+2015-11-12 02:05:20,435 - test.Testsenerio -INFO - direct 2nd page startwith 'M'
+2015-11-12 02:05:20,470 - test.Testsenerio -INFO - listing second page
+2015-11-12 02:05:20,496 - test.Testsenerio -INFO - second page start with = Mario Bellatin (1)
+2015-11-12 02:05:37,951 - test.Testsenerio -INFO - Start testing for 'Z'
+2015-11-12 02:05:54,413 - test.Testsenerio -INFO - navigate and refresh
+2015-11-12 02:05:54,452 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 02:05:54,515 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 02:05:54,545 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,567 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,597 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,626 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,650 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,672 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,693 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,716 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,736 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,761 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,780 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,799 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,818 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,836 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,855 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,874 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,892 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,911 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,930 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,950 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:54,991 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,014 - test.Testsenerio -INFO - DIV2 SIZE =11
+2015-11-12 02:05:55,032 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,052 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,073 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,091 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,108 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,129 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,150 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,169 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,186 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,204 - test.Testsenerio -ERROR - false
+2015-11-12 02:05:55,222 - test.Testsenerio -ERROR - false
+2015-11-12 02:06:05,251 - test.Testsenerio -INFO - DIV3 SIZE =0
+2015-11-12 02:06:15,338 - test.Testsenerio -INFO - DIV4 SIZE =0
+2015-11-12 02:06:15,363 - test.Testsenerio -ERROR - this page have 32 authors
+2015-11-12 02:23:19,604 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 02:23:19,743 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 02:23:22,043 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 02:23:54,840 - test.Testsenerio -INFO - STARTED TESTİNG
+2015-11-12 02:23:54,876 - test.Testsenerio -INFO - open firefox browser
+2015-11-12 02:24:04,382 - test.Testsenerio -INFO - STARTED facebook login
+2015-11-12 02:24:24,026 - test.Testsenerio -INFO - Facebook logged is success open n11.com
+2015-11-12 02:24:31,623 - test.Testsenerio -INFO - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-12 02:24:36,778 - test.Testsenerio -INFO - find KİTAP and click
+2015-11-12 02:24:41,271 - test.Testsenerio -INFO - find Yazarlar and click
+2015-11-12 02:24:41,304 - test.Testsenerio -INFO - go to the authors names page start with 'M'
+2015-11-12 02:24:41,369 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 02:24:51,976 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 02:24:53,414 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,462 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,530 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,569 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,593 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,616 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,636 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,657 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,676 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,697 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,721 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,739 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,755 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,774 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,791 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,811 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,829 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,848 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,864 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,881 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,899 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,929 - test.Testsenerio -INFO - DIV2 SIZE =20
+2015-11-12 02:24:53,959 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,978 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:53,996 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,015 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,037 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,054 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,074 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,092 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,110 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,146 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,164 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,181 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,198 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,216 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,232 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,248 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,266 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,283 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,300 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,318 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,348 - test.Testsenerio -INFO - DIV3 SIZE =20
+2015-11-12 02:24:54,374 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,399 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,416 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,434 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,451 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,469 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,488 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,503 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,519 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,536 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,553 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,571 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,594 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,612 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,629 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,653 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,674 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,699 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,718 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,736 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,763 - test.Testsenerio -INFO - DIV4 SIZE =19
+2015-11-12 02:24:54,781 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,799 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,817 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,833 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,849 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,869 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,886 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,903 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,921 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,939 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,957 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:54,980 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,008 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,033 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,051 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,068 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,087 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,105 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,124 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,142 - test.Testsenerio -INFO - Starts with 'M' = True
+2015-11-12 02:24:55,143 - test.Testsenerio -INFO - this page have 80 authors
+2015-11-12 02:24:55,161 - test.Testsenerio -INFO - first page last element Start withMarie-Sabine Roger (1)
+2015-11-12 02:24:55,162 - test.Testsenerio -INFO - calling method
+2015-11-12 02:25:02,582 - test.Testsenerio -INFO - direct 2nd page startwith 'M'
+2015-11-12 02:25:02,625 - test.Testsenerio -INFO - listing second page
+2015-11-12 02:25:02,648 - test.Testsenerio -INFO - second page start with = Mario Bellatin (1)
+2015-11-12 02:25:02,648 - test.Testsenerio -INFO - web site hasn't got  error about paging
+2015-11-12 02:25:21,882 - test.Testsenerio -INFO - Start testing for 'Z'
+2015-11-12 02:25:34,479 - test.Testsenerio -INFO - navigate and refresh
+2015-11-12 02:25:34,480 - test.Testsenerio -INFO - Authors page has 4 div[] now controlled one by one
+2015-11-12 02:25:34,600 - test.Testsenerio -INFO - DIV1 SİZE = 21
+2015-11-12 02:25:34,630 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,654 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,676 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,700 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,720 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,740 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,761 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,785 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,804 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,828 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,846 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,864 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,882 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,900 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,921 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,940 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,959 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:34,977 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,000 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,021 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,044 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,073 - test.Testsenerio -INFO - DIV2 SIZE =11
+2015-11-12 02:25:35,093 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,118 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,148 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,177 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,204 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,228 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,252 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,272 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,291 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,311 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:35,333 - test.Testsenerio -ERROR - Starts with 'F'
+2015-11-12 02:25:45,365 - test.Testsenerio -INFO - DIV3 SIZE =0
+2015-11-12 02:25:55,386 - test.Testsenerio -INFO - DIV4 SIZE =0
+2015-11-12 02:25:55,415 - test.Testsenerio -ERROR - this page have 32 authors
